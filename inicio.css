@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.container-sobre{
+    
+    height: 200vh;
+    padding: 20px;
+
+}
+
+.sobre{
+   
+    padding: 20px;
+    margin-top: 50px;
+   
+}
+
+.sobre h1{
+    color: white;
+   
+}
+
+.sobre p{
+    color: aliceblue;
+}
+
+.sobre iframe{
+    margin-top: 20px;
+}
+
